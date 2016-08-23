@@ -3,7 +3,7 @@
 
 第一步:请确保程序已经导入了 FMDB,没有导入的自己用 pod 导入最好
 
-第二步:下载 suoerFmdb然后导入到程序里
+第二步:下载 superFmdb然后导入到程序里
 
 第三步:导入头文件:SuperFMDB.h 就 okle 
 
